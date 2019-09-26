@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title') Items Management @endsection
+@section('title') Items ManagemenT @endsection
 
 @section('script')
   <script src="{{ asset('js/sweetalert.js') }}"></script>
